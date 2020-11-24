@@ -1,7 +1,7 @@
 <?php
 
     $nome = "Elieser";
-    echo "$nome";
-
+    //echo $nome;
+    var_dump($nome);
 
 ?>
