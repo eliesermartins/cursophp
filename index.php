@@ -3,15 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Curso de PHP HCode - Udemy</title>
 </head>
 <body>
     
     <?php
 
-        echo "Ola mundo 1234. Alterando no github";
-
-        echo "Ola Udemy e github";          
+        echo "Ola mundo!. Bem vindo ao curso de PHP Hcode Udemy";
 
     ?>
 
